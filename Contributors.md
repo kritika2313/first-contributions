@@ -1540,6 +1540,7 @@
 - [Cody Ickes](https://github.com/cwickes)
 - [Apostolis Patrikios](https://github.com/Hexapo)
 - [Rahul Poddar](https://github.com/rpoddar05)
+- kritika singh[]
 - [woatungau](https://github.com/woa-tung-au)
 - [Chinnadurai Eswaran](https://github.com/chinnadurai)
 - [Kacper Siniło](https://github.com/kacper3123)
